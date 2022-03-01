@@ -1,0 +1,9 @@
+env/
+project/__pycache__
+project/project/__pycache__
+project/frontend/__pycache__
+project/frontend/migrations/__pycache__
+
+project/pretrained_models
+project/functions.py
+project/pretrained.py
